@@ -1,0 +1,212 @@
+[
+    {
+        "type_name": "paper",
+        "water_savings_index": 75.4,
+        "co2_emission_index": 8.3,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "metal",
+        "water_savings_index": 13.6,
+        "co2_emission_index": 0.5,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "organic",
+        "water_savings_index": 88.3,
+        "co2_emission_index": 8.5,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 62.9,
+        "co2_emission_index": 1.5,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "metal",
+        "water_savings_index": 71.1,
+        "co2_emission_index": 9.3,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "ewaste",
+        "water_savings_index": 71.0,
+        "co2_emission_index": 4.2,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 27.2,
+        "co2_emission_index": 4.5,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 4.9,
+        "co2_emission_index": 4.9,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 56.7,
+        "co2_emission_index": 8.2,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "organic",
+        "water_savings_index": 65.3,
+        "co2_emission_index": 2.2,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 53.1,
+        "co2_emission_index": 1.6,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 78.1,
+        "co2_emission_index": 4.3,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "paper",
+        "water_savings_index": 85.4,
+        "co2_emission_index": 6.2,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "ewaste",
+        "water_savings_index": 41.8,
+        "co2_emission_index": 9.3,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "organic",
+        "water_savings_index": 4.1,
+        "co2_emission_index": 5.1,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 46.0,
+        "co2_emission_index": 4.4,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "ewaste",
+        "water_savings_index": 71.0,
+        "co2_emission_index": 5.4,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "paper",
+        "water_savings_index": 20.9,
+        "co2_emission_index": 6.7,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 14.2,
+        "co2_emission_index": 7.8,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 62.6,
+        "co2_emission_index": 10.0,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "paper",
+        "water_savings_index": 47.2,
+        "co2_emission_index": 0.0,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 55.9,
+        "co2_emission_index": 10.0,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "organic",
+        "water_savings_index": 45.4,
+        "co2_emission_index": 2.6,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 35.3,
+        "co2_emission_index": 8.3,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "glass",
+        "water_savings_index": 75.8,
+        "co2_emission_index": 8.8,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "ewaste",
+        "water_savings_index": 69.9,
+        "co2_emission_index": 8.8,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "metal",
+        "water_savings_index": 41.3,
+        "co2_emission_index": 6.2,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "plastic",
+        "water_savings_index": 95.1,
+        "co2_emission_index": 1.4,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "ewaste",
+        "water_savings_index": 68.7,
+        "co2_emission_index": 7.7,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    },
+    {
+        "type_name": "organic",
+        "water_savings_index": 38.4,
+        "co2_emission_index": 2.8,
+        "createdAt": "1/1/2024T00:00:00Z",
+        "updatedAt": "1/1/2024T00:00:00Z"
+    }
+]

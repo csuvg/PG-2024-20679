@@ -1,0 +1,63 @@
+{
+  "name": "eco-scan-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --recursive --exclude \"test/reports/**\"",
+    "test:performance": "artillery run --output test/performance/artillery-report.json test/performance/performance.yml",
+    "test:coverage": "nyc mocha --recursive --exclude \"test/reports/**\"",
+    "test:unit": "mocha tests/unit/**/*.test.js",
+    "test:unit:coverage": "nyc mocha tests/unit/**/*.test.js",
+    "test:integration": "mocha tests/integration/**/*.test.js",
+    "test:integration:coverage": "nyc mocha tests/integration/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sentry/node": "^8.35.0",
+    "@sentry/profiling-node": "^8.35.0",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.12.0",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "artillery": "^2.0.21",
+    "chai": "^4.3.4",
+    "mocha": "^10.7.3",
+    "nyc": "^17.1.0",
+    "sequelize-cli": "^6.6.2",
+    "sinon": "^19.0.2",
+    "supertest": "^7.0.0"
+  },
+  "nyc": {
+    "reporter": [
+      "text",
+      "html",
+      "lcov"
+    ],
+    "exclude": [
+      "node_modules",
+      "test",
+      "coverage"
+    ],
+    "extension": [
+      ".js"
+    ],
+    "all": true,
+    "check-coverage": true,
+    "statements": 80,
+    "branches": 80,
+    "functions": 80,
+    "lines": 80
+  }
+}

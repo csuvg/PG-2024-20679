@@ -1,0 +1,201 @@
+user_id,name,area_id,has_waste_collection
+81,Cafe,92,no
+176,Gym,180,not sure
+27,Library,86,yes
+95,Gym,73,no
+122,Park,93,yes
+200,Work,71,no
+45,Gym,70,no
+39,Park,27,no
+70,Park,38,no
+50,Library,55,not sure
+50,Library,162,no
+174,Library,124,no
+76,Gym,2,yes
+154,Home,35,not sure
+30,Home,89,yes
+13,Home,197,no
+65,Home,28,not sure
+88,Cafe,106,no
+194,Work,25,not sure
+91,Park,101,not sure
+6,Library,56,not sure
+83,Gym,160,no
+114,Gym,29,yes
+159,Library,145,not sure
+41,Work,143,no
+38,Gym,61,yes
+153,Park,17,not sure
+37,Work,73,yes
+140,Library,13,no
+74,Library,197,not sure
+76,Home,147,yes
+104,Park,179,yes
+79,Work,65,yes
+199,Home,58,no
+79,Cafe,51,no
+177,Library,16,yes
+78,Home,26,not sure
+35,Gym,200,yes
+62,Gym,56,not sure
+2,Gym,24,no
+90,Library,184,not sure
+84,Gym,88,yes
+107,Work,137,yes
+154,Park,182,not sure
+86,Gym,119,not sure
+185,Library,65,no
+65,Gym,93,yes
+96,Home,156,not sure
+140,Library,101,yes
+26,Work,68,no
+49,Library,55,no
+68,Home,39,yes
+90,Library,69,no
+192,Gym,197,not sure
+196,Work,181,no
+135,Home,20,no
+115,Work,147,no
+124,Gym,147,no
+171,Library,137,not sure
+1,Work,39,no
+51,Park,186,no
+30,Home,35,not sure
+83,Gym,197,no
+86,Cafe,157,yes
+97,Gym,112,not sure
+116,Cafe,168,no
+48,Library,57,not sure
+199,Library,73,not sure
+136,Work,10,yes
+114,Work,4,not sure
+6,Gym,112,yes
+58,Work,74,yes
+29,Cafe,16,no
+155,Work,24,no
+97,Park,157,not sure
+117,Cafe,39,no
+66,Park,74,no
+53,Gym,167,not sure
+73,Work,139,no
+32,Library,72,not sure
+115,Library,128,yes
+87,Gym,75,yes
+165,Library,19,yes
+21,Cafe,81,yes
+158,Gym,38,yes
+118,Cafe,6,yes
+169,Home,87,not sure
+176,Library,110,yes
+171,Library,199,yes
+67,Cafe,162,yes
+117,Cafe,194,no
+141,Gym,122,not sure
+177,Cafe,164,no
+10,Gym,40,no
+86,Park,127,yes
+145,Park,83,not sure
+13,Home,2,not sure
+161,Library,130,not sure
+38,Gym,142,not sure
+103,Cafe,15,no
+63,Work,15,no
+156,Gym,100,not sure
+101,Home,162,not sure
+108,Gym,72,yes
+26,Home,4,not sure
+54,Home,111,yes
+163,Cafe,188,yes
+3,Work,90,no
+47,Gym,197,not sure
+21,Cafe,62,not sure
+175,Cafe,71,not sure
+177,Park,59,yes
+95,Work,115,not sure
+87,Cafe,155,yes
+24,Work,111,not sure
+3,Home,103,not sure
+83,Library,7,no
+78,Home,58,no
+43,Library,35,not sure
+48,Library,147,yes
+57,Home,176,yes
+87,Gym,166,not sure
+188,Gym,116,yes
+97,Library,172,not sure
+180,Cafe,174,no
+170,Cafe,188,not sure
+174,Gym,44,yes
+129,Work,155,yes
+159,Gym,97,not sure
+119,Cafe,28,not sure
+81,Park,9,not sure
+160,Library,62,not sure
+5,Park,108,yes
+13,Gym,99,not sure
+65,Library,43,yes
+10,Gym,6,not sure
+124,Gym,28,yes
+196,Library,172,no
+196,Library,115,yes
+158,Gym,121,not sure
+126,Gym,133,no
+10,Cafe,131,yes
+185,Library,39,no
+173,Park,87,yes
+55,Work,98,no
+103,Park,190,yes
+116,Gym,61,no
+200,Cafe,26,not sure
+75,Library,84,yes
+136,Home,91,yes
+69,Work,86,not sure
+164,Park,171,no
+47,Home,102,no
+165,Work,99,no
+174,Gym,171,not sure
+22,Home,28,no
+133,Work,68,no
+44,Home,77,yes
+155,Gym,79,not sure
+7,Cafe,108,yes
+157,Cafe,14,yes
+76,Home,125,no
+32,Gym,26,yes
+121,Gym,184,not sure
+78,Gym,100,yes
+181,Gym,180,not sure
+34,Home,140,no
+100,Home,123,yes
+50,Park,9,not sure
+61,Work,74,yes
+100,Gym,58,yes
+160,Park,71,yes
+57,Cafe,113,no
+128,Library,83,no
+7,Park,86,yes
+56,Work,2,not sure
+45,Cafe,125,no
+169,Cafe,12,no
+52,Work,29,yes
+27,Home,162,not sure
+102,Work,166,not sure
+3,Park,70,not sure
+167,Home,200,yes
+27,Home,122,not sure
+78,Work,26,not sure
+87,Park,83,not sure
+47,Work,70,no
+144,Cafe,5,not sure
+182,Cafe,55,no
+184,Home,43,no
+49,Library,179,not sure
+34,Work,178,yes
+8,Work,31,no
+161,Work,122,not sure
+173,Cafe,32,yes
+3,Park,14,yes
+55,Library,153,no
+142,Park,34,no
+169,Library,175,yes
+56,Park,121,yes
