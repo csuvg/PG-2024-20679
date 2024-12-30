@@ -105,7 +105,9 @@ En la carpeta `/demo` encontrará un video demostrativo (`demo.mp4`) que muestra
 
 ## Informe Final
 
-El informe final del proyecto está disponible en la carpeta `/docs/` como un archivo PDF (`informe_final.pdf`).
+El informe completo sobre el desarrollo del proyecto, incluyendo detalles técnicos, metodológicos y resultados, está disponible en la carpeta `/docs/` del repositorio.
+
+**Enlace directo al informe**: [Informe Final (PDF)](./docs/informe_final.pdf)
 
 ## Estructura del Proyecto
 
