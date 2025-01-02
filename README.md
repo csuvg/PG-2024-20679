@@ -51,7 +51,15 @@ Asegúrese de tener instalados los siguientes componentes en su entorno:
    npx sequelize db:migrate
    ```
 
-5. Iniciar el servidor:
+5. (Opcional) Poblar la base de datos con datos iniciales:
+
+   Para facilitar las pruebas y la configuración inicial, puede ejecutar los seeders:
+
+   ```bash
+   npx sequelize db:seed:all
+   ```
+
+6. Iniciar el servidor:
 
    ```bash
    npm start
@@ -102,6 +110,8 @@ npm test
 ## Demo
 
 En la carpeta `/demo` encontrará un video demostrativo (`demo.mp4`) que muestra las principales funcionalidades del proyecto.
+
+**Enlace directo al video**: [Ver Demo](./demo/demo.mp4)
 
 ## Informe Final
 
