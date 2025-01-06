@@ -1,0 +1,69 @@
+config:
+  target: 'http://localhost:3000'
+  phases:
+    - duration: 60  # Duración de la prueba en segundos
+      arrivalRate: 35  # Número de usuarios simulados por segundo
+  defaults:
+    headers:
+      content-type: "application/json"
+
+scenarios:
+  - name: Test de análisis de desechos reciclables
+    flow:
+      - get:
+          url: "/analysis/recyclable-waste/1"
+
+  - name: Test de las 5 principales ubicaciones por desechos
+    flow:
+      - get:
+          url: "/analysis/top5-locations/1"
+
+  - name: Test de ahorro de agua
+    flow:
+      - get:
+          url: "/analysis/water-savings/1"
+
+  - name: Test de ahorro de CO2
+    flow:
+      - get:
+          url: "/analysis/co2-savings/1"
+
+  - name: Test de los 5 tipos de desechos más comunes
+    flow:
+      - get:
+          url: "/analysis/top5-waste-types/1"
+
+  - name: Test de peso de desechos de los últimos 7 días
+    flow:
+      - get:
+          url: "/analysis/waste-last7days/1"
+
+  - name: Test de comparación de desechos de hoy con el promedio mensual
+    flow:
+      - get:
+          url: "/analysis/compare-waste-today/1"
+
+  - name: Test de cantidad de desechos de hoy
+    flow:
+      - get:
+          url: "/analysis/waste-today/1"
+
+  - name: Test de cantidad de desechos reciclables generales
+    flow:
+      - get:
+          url: "/analysis/all/recyclable-waste-stats"
+
+  - name: Test de cantidad de ahorro de agua general
+    flow:
+      - get:
+          url: "/analysis/all/water-savings"
+
+  - name: Test de cantidad de ahorro de CO2 general
+    flow:
+      - get:
+          url: "/analysis/all/co2-savings"
+
+  - name: Test de top 5 desechos generales
+    flow:
+      - get:
+          url: "/analysis/all/top5-waste-types"
